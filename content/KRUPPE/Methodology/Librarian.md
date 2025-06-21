@@ -1,0 +1,1 @@
+![[kruppe_librarian.png]]

@@ -1,0 +1,1 @@
+![[kruppe_coordinator.png]]

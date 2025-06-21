@@ -85,6 +85,6 @@ For more, see [[AiGoLearning]]
 
 ## NYU Classes
 
-Fundamentals of Machine Learning
-Parallel Computing
+[[! FML Overview|Fundamental of Machine Learning]]
+[[! PC Overview|Parallel Computing]]
 Equity Valuation

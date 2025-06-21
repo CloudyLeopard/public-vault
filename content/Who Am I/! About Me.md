@@ -14,6 +14,4 @@ You're also welcome to see a more streamlined version of [[Stuff I've Done|stuff
 
 ## Stuff I'm Interested In
 
-AI
-Teaching
-Helping people
+xx

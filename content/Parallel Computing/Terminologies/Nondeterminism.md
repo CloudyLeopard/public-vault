@@ -1,3 +1,0 @@
-...
-
-For more, see [[Parallel Code on a Shared Memory System#Nondeterminism]]

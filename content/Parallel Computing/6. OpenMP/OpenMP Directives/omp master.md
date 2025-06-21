@@ -1,1 +1,0 @@
-slight variation to [[omp single]]: instead of whichever thread reaches the code will execute it (and only once), only the master thread will execute the code

@@ -1,1 +1,0 @@
-**Idle**: not good in a computer system - being idle does not mean the system is turned off, it is still using power.

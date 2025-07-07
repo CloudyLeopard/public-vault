@@ -30,4 +30,6 @@ TABLE
 	overall
 FROM 
 	#apples and -"templates"
+SORT
+	overall DESC
 ```

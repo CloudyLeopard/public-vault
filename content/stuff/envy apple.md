@@ -1,11 +1,11 @@
 ---
 layout: posts
 share: true
-crunch: 6
-sweet: 10
-juice: 10
-size: 8
-overall: 9
+crunch: 8
+sweet: 9
+juice: 6
+size: 9
+overall: 8.5
 tags:
   - apples
   - ratings

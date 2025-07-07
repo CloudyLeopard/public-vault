@@ -1,0 +1,37 @@
+---
+layout: pages
+share: true
+tags:
+  - me
+---
+- **name?** daniel liu
+- **chinese name?** 刘日臻
+- **username?** cloudyleopard
+- **email?** daniel.liu@stern.nyu.edu
+- **degree?** [[education|B.S. in Finance & CS, minor in Math]]
+- **graduated?** yes. unfortunately. in 2025.
+- **favorite school?** nyu
+- **my school?** nyu stern
+- **favorite school with a campus?** probably ohio state idk
+- **favorite class at nyu?** Fundamentals of Machine Learning by Prof. Wallisch
+- **past experience?** [[experience|here]]
+- **past projects?** [[projects|here]]
+- **resume?** [[Daniel-Liu-Resume.pdf|here]]
+- **personal website?** you’re looking at it
+- **linkedin?** https://www.linkedin.com/in/daniel-r-liu/
+- **github?** https://github.com/CloudyLeopard
+- **current company?** [[AiGoLearning]]
+- **language?** english, chinese, spanish (dónde está la biblioteca level)
+- **no i meant languages?** python, java, C, sql, html/css/js
+- **strength?** research, getting stuff done
+- **weakness?** terrible at humor but i still try for some reason
+- **proudest accomplishment?** [[aigolearning]]
+- **favorite project?** [[voteeasy]]
+- **favorite llm to use?** [[senior honors thesis#Main Findings|o3]]
+- **go to activity?** reading
+- **favorite book?** Infinite Jest
+- **favorite book series?** Malazan Book of the Fallen (please reach out if you also read this series i’m dying to talk to someone about this)
+- **favorite nfl team?** go birds
+- **favorite data structure?** clearly a list
+- **hoodie?** orange
+- **hotel?** trivago

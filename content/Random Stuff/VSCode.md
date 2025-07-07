@@ -1,1 +1,0 @@
-**Profile:** You can define separate profile for VS code (i.e. a profile for Python, a profile for Java, maybe a profile for Python+Hatch, etc.)
